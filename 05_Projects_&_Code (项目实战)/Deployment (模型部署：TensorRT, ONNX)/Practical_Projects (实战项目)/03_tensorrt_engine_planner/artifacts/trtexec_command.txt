@@ -1,1 +1,3 @@
-trtexec --onnx=model.onnx --saveEngine=model.engine --memPoolSize=workspace:2048 --minShapes=images:1x3x320x320 --optShapes=images:4x3x640x640 --maxShapes=images:8x3x640x640 --fp16
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f55344a8e4024ebad684c15225ffa25888390e0c3c6e5e5743ac4e2ada9460b
+size 182
