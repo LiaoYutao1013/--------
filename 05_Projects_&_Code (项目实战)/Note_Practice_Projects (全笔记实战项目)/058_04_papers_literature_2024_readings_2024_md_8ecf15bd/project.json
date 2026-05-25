@@ -1,0 +1,18 @@
+{
+  "id": "058_04_papers_literature_2024_readings_2024_md_8ecf15bd",
+  "title": "2024 论文阅读记录",
+  "note_path": "04_Papers_&_Literature (论文精读)/2024_Readings/2024论文阅读记录.md",
+  "headings": [
+    "论文模板",
+    "论文标题",
+    "目标检测",
+    "分割",
+    "3D 视觉",
+    "生成模型"
+  ],
+  "topic": "paper_review",
+  "subtype": "paper",
+  "objective": "构建论文阅读队列、评分和复盘摘要",
+  "scenario": "构建论文阅读追踪器，对应《2024 论文阅读记录》的精读记录。",
+  "seed": 2395936189
+}

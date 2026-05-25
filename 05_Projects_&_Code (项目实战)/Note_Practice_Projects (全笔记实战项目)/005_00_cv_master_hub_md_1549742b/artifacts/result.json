@@ -1,0 +1,42 @@
+{
+  "note_title": "📋 项目建设完成报告",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 6,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：概览",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：✅ 已完成的核心内容",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：📊 项目完成度统计",
+        "done": false
+      },
+      {
+        "step": 4,
+        "task": "实践：🎯 建议的后续工作优先级",
+        "done": false
+      },
+      {
+        "step": 5,
+        "task": "实践：📝 具体创建建议",
+        "done": false
+      },
+      {
+        "step": 6,
+        "task": "实践：🔗 链接关系图",
+        "done": false
+      }
+    ]
+  }
+}

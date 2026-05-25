@@ -1,0 +1,19 @@
+{
+  "id": "039_03_computer_vision_tasks_classification_md_7e27e442",
+  "title": "图像分类总览",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Classification (分类)/图像分类总览.md",
+  "headings": [
+    "基本流程",
+    "分类任务类型",
+    "常用模型",
+    "损失函数",
+    "迁移学习",
+    "评价指标",
+    "与检测/分割的关系"
+  ],
+  "topic": "segmentation",
+  "subtype": "mask",
+  "objective": "生成合成 mask 并计算 IoU 与连通域",
+  "scenario": "生成合成分割 mask，计算《图像分类总览》相关的 IoU 和连通域。",
+  "seed": 2116543554
+}

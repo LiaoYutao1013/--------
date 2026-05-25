@@ -1,0 +1,8 @@
+{
+  "id": "04_finetune_last_layers",
+  "title": "解冻后几层进行微调",
+  "mode": "finetune",
+  "vision_task": "classification",
+  "objective": "比较只训练分类头与小学习率微调 backbone 的差异。",
+  "seed": 20260523
+}

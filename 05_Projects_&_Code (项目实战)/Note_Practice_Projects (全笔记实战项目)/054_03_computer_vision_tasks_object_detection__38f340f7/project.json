@@ -1,0 +1,20 @@
+{
+  "id": "054_03_computer_vision_tasks_object_detection__38f340f7",
+  "title": "YOLO 损失函数深度解析",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/YOLO_Loss_Functions.md",
+  "headings": [
+    "概述",
+    "损失函数的三个部分",
+    "演变历程",
+    "现代损失函数",
+    "类别不平衡的处理",
+    "位置损失的选择对比",
+    "完整的 YOLO v4 损失函数",
+    "调试技巧"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《YOLO 损失函数深度解析》涉及的框、损失或后处理逻辑。",
+  "seed": 955465975
+}

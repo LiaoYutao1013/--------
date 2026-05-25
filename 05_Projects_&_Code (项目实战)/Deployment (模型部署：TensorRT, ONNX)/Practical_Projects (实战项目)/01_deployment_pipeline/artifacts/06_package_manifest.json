@@ -1,0 +1,9 @@
+{
+  "files": [
+    "model.engine",
+    "preprocess.py",
+    "postprocess.py",
+    "config.json"
+  ],
+  "healthcheck": "/healthz"
+}

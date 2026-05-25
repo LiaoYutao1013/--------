@@ -1,0 +1,18 @@
+{
+  "id": "036_03_computer_vision_tasks_3d_vision_nerf_3d_0b78c1eb",
+  "title": "3D 表示方法",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Representations/3D表示方法.md",
+  "headings": [
+    "常见表示",
+    "点云",
+    "网格",
+    "隐式表示",
+    "NeRF 表示",
+    "3DGS 表示"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《3D 表示方法》相关几何计算。",
+  "seed": 192463339
+}

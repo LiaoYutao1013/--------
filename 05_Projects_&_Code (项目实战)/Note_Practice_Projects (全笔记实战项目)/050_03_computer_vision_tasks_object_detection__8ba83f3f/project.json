@@ -1,0 +1,20 @@
+{
+  "id": "050_03_computer_vision_tasks_object_detection__8ba83f3f",
+  "title": "数据增强策略完全指南",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/Data_Augmentation_Strategies.md",
+  "headings": [
+    "概述",
+    "基础增强方法",
+    "高级增强方法",
+    "YOLO 专用增强",
+    "数据增强策略总结",
+    "自动增强（AutoAugment）",
+    "增强对性能的影响",
+    "常见错误"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《数据增强策略完全指南》涉及的框、损失或后处理逻辑。",
+  "seed": 2343059263
+}

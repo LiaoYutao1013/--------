@@ -1,0 +1,20 @@
+{
+  "id": "023_02_deep_learning_core_architectures_cnn_se_42f7c878",
+  "title": "🧠 经典 CNN 架构完全指南",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/卷积神经网络CNN基础.md",
+  "headings": [
+    "概述",
+    "1. CNN 基础回顾",
+    "2. LeNet-5 (1998)",
+    "3. AlexNet (2012)",
+    "4. VGGNet (2014)",
+    "5. 架构演变对比",
+    "6. 实际应用",
+    "7. 自测练习"
+  ],
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "scenario": "搭建轻量结构分析器，统计《🧠 经典 CNN 架构完全指南》相关模块的形状和参数量。",
+  "seed": 1123534968
+}

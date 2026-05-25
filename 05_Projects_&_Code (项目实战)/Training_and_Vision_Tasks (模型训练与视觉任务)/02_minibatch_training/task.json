@@ -1,0 +1,8 @@
+{
+  "id": "02_minibatch_training",
+  "title": "Mini-batch 训练与学习率实验",
+  "mode": "mini_batch",
+  "vision_task": "classification",
+  "objective": "观察 batch size 和学习率对收敛速度的影响。",
+  "seed": 20260521
+}

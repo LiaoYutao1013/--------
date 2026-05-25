@@ -1,0 +1,20 @@
+{
+  "id": "007_01_foundations_digital_image_processing_op_c1dc7758",
+  "title": "🎯 局部特征提取详解",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Edge_Detection_&_Features/局部特征提取.md",
+  "headings": [
+    "概述",
+    "1. 特征点的性质",
+    "2. Harris 角点检测",
+    "3. SIFT（尺度不变特征变换）",
+    "4. ORB（Oriented FAST and Rotated BRIEF）",
+    "5. 特征点对比",
+    "6. 实际应用",
+    "7. 性能优化"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《🎯 局部特征提取详解》涉及的框、损失或后处理逻辑。",
+  "seed": 3252451160
+}

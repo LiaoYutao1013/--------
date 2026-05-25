@@ -1,0 +1,19 @@
+{
+  "title": "解冻后几层进行微调",
+  "mode": "finetune",
+  "vision_task": "classification",
+  "objective": "比较只训练分类头与小学习率微调 backbone 的差异。",
+  "result": {
+    "experiment": "finetune_last_layers",
+    "head_only_accuracy": 0.875,
+    "finetuned_accuracy": 0.875,
+    "metrics": {
+      "tp": 18,
+      "tn": 17,
+      "fp": 2,
+      "fn": 3,
+      "precision": 0.9,
+      "recall": 0.8571428571428571
+    }
+  }
+}

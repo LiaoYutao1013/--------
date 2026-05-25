@@ -1,0 +1,11 @@
+{
+  "title": "自监督对比学习预训练",
+  "mode": "contrastive",
+  "vision_task": "representation_learning",
+  "objective": "通过正负样本相似度理解对比学习的训练目标。",
+  "result": {
+    "experiment": "contrastive_pretraining",
+    "mean_margin": 1.0738267818867555,
+    "positive_pair_count": 16
+  }
+}

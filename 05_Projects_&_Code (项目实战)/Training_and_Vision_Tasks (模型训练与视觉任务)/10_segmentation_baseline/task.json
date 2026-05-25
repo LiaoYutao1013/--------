@@ -1,0 +1,8 @@
+{
+  "id": "10_segmentation_baseline",
+  "title": "图像分割 Mask Baseline",
+  "mode": "segmentation",
+  "vision_task": "segmentation",
+  "objective": "生成合成 mask，学习阈值分割、IoU 和 Dice 指标。",
+  "seed": 20260529
+}

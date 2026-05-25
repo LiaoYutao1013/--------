@@ -1,0 +1,17 @@
+{
+  "format": "demo-checkpoint",
+  "input": {
+    "shape": [
+      4,
+      3,
+      640,
+      640
+    ],
+    "dtype": "float32"
+  },
+  "classes": [
+    "part_ok",
+    "scratch",
+    "missing_part"
+  ]
+}

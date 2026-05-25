@@ -1,0 +1,18 @@
+{
+  "id": "038_03_computer_vision_tasks_3d_vision_nerf_3d_98c10382",
+  "title": "神经渲染与重建",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/Neural_Rendering_&_Reconstruction/神经渲染与重建.md",
+  "headings": [
+    "任务目标",
+    "NeRF",
+    "NeRF 的限制",
+    "3D Gaussian Splatting",
+    "SLAM 与重建",
+    "学习路线"
+  ],
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "scenario": "把《神经渲染与重建》转化为可执行任务、里程碑和检查项。",
+  "seed": 2562786178
+}

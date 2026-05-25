@@ -1,0 +1,16 @@
+{
+  "id": "001_00_cv_master_hub_concept_graph_and_md_9354d11f",
+  "title": "计算机视觉知识图谱",
+  "note_path": "00_CV_Master_Hub (索引中心)/Concept_Graph (知识图谱and画布).md",
+  "headings": [
+    "🌐 核心知识体系",
+    "📊 知识点关联图",
+    "🔗 主题关联",
+    "📈 学习进度跟踪"
+  ],
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "scenario": "把《计算机视觉知识图谱》转化为可执行任务、里程碑和检查项。",
+  "seed": 2471809311
+}

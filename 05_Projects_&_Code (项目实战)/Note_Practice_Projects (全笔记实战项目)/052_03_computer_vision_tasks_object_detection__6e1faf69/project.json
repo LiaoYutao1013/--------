@@ -1,0 +1,20 @@
+{
+  "id": "052_03_computer_vision_tasks_object_detection__6e1faf69",
+  "title": "小目标检测优化完全指南",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/Small_Object_Detection_Optimization.md",
+  "headings": [
+    "问题定义",
+    "1. 输入分辨率优化",
+    "2. 特征金字塔改进",
+    "3. Anchor 优化",
+    "4. 损失函数优化",
+    "5. 数据增强策略",
+    "6. 训练策略优化",
+    "7. 多尺度检测"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《小目标检测优化完全指南》涉及的框、损失或后处理逻辑。",
+  "seed": 1847570281
+}

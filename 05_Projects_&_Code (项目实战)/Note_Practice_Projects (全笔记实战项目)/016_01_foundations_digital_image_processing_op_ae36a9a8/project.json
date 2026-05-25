@@ -1,0 +1,16 @@
+{
+  "id": "016_01_foundations_digital_image_processing_op_ae36a9a8",
+  "title": "数字图像处理总览",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/数字图像处理总览.md",
+  "headings": [
+    "核心主题",
+    "典型处理流水线",
+    "与深度学习的连接",
+    "实践建议"
+  ],
+  "topic": "image_processing",
+  "subtype": "color",
+  "objective": "生成 RGB 样本并转换颜色空间",
+  "scenario": "构建一个 16x16 合成图像实验台，验证《数字图像处理总览》中的像素处理思路。",
+  "seed": 2922817960
+}

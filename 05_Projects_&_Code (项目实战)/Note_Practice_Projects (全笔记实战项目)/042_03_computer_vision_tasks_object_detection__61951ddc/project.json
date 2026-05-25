@@ -1,0 +1,17 @@
+{
+  "id": "042_03_computer_vision_tasks_object_detection__61951ddc",
+  "title": "CSPNet 架构：跨阶段部分连接",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/CSPNet_Architecture.md",
+  "headings": [
+    "快速理解",
+    "为什么有效",
+    "与 ResNet 的区别",
+    "学习重点",
+    "相关链接"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《CSPNet 架构：跨阶段部分连接》涉及的框、损失或后处理逻辑。",
+  "seed": 1637162460
+}

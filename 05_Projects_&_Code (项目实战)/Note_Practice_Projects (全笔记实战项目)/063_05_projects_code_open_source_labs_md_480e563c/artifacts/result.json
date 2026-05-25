@@ -1,0 +1,21 @@
+{
+  "note_title": "开源项目研究方法",
+  "topic": "open_source",
+  "subtype": "repo",
+  "objective": "模拟开源项目结构审计并输出阅读路线",
+  "result": {
+    "lab": "repo_reading_audit",
+    "reading_order": [
+      "README",
+      "configs",
+      "datasets",
+      "models",
+      "train",
+      "losses",
+      "evaluation",
+      "export"
+    ],
+    "coverage_score": 36,
+    "next_focus": "trace one batch from dataset to loss"
+  }
+}

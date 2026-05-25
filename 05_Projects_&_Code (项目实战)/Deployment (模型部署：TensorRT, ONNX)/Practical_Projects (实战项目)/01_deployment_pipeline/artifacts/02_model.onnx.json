@@ -1,0 +1,18 @@
+{
+  "format": "onnx-placeholder",
+  "opset": 17,
+  "dynamic_axes": {
+    "images": [
+      0
+    ],
+    "outputs": [
+      0
+    ]
+  },
+  "operators": [
+    "Conv",
+    "BatchNormalization",
+    "Relu",
+    "Gemm"
+  ]
+}

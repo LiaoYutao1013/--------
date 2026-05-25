@@ -1,0 +1,32 @@
+{
+  "note_title": "3D 视觉总览",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 4,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：模块结构",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：学习路线",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：与 2D CV 的区别",
+        "done": false
+      },
+      {
+        "step": 4,
+        "task": "实践：必须掌握",
+        "done": false
+      }
+    ]
+  }
+}

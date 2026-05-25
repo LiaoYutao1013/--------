@@ -1,0 +1,36 @@
+{
+  "model_name": "demo_detector",
+  "passed": true,
+  "checks": [
+    {
+      "name": "preprocess_consistency",
+      "passed": true,
+      "detail": "train=preprocess-v3 deploy=preprocess-v3"
+    },
+    {
+      "name": "postprocess_consistency",
+      "passed": true,
+      "detail": "validation=postprocess-v2 deploy=postprocess-v2"
+    },
+    {
+      "name": "onnx_parity",
+      "passed": true,
+      "detail": "error=4e-06 limit=1e-05"
+    },
+    {
+      "name": "dynamic_input_coverage",
+      "passed": true,
+      "detail": "b1:320x320, b4:640x640, b8:960x960"
+    },
+    {
+      "name": "performance_recorded",
+      "passed": true,
+      "detail": "all metrics recorded"
+    },
+    {
+      "name": "error_handling",
+      "passed": true,
+      "detail": "all required cases covered"
+    }
+  ]
+}

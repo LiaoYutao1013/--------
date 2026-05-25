@@ -1,0 +1,20 @@
+{
+  "id": "056_03_computer_vision_tasks_object_detection__f2f38931",
+  "title": "目标检测训练配置",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/目标检测训练配置.md",
+  "headings": [
+    "概述",
+    "检测训练目标",
+    "数据与标签检查",
+    "输入尺寸",
+    "Batch Size",
+    "优化器选择",
+    "学习率调度",
+    "Weight Decay"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《目标检测训练配置》涉及的框、损失或后处理逻辑。",
+  "seed": 4076046641
+}

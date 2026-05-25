@@ -1,0 +1,17 @@
+{
+  "note_title": "CV学习目标",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 1,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：学习计划",
+        "done": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "note_title": "项目实战总览",
+  "topic": "planner",
+  "subtype": "note",
+  "objective": "把笔记主题拆成可执行任务清单",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 3,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：模块结构",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：一个完整项目应包含",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：推荐项目",
+        "done": false
+      }
+    ]
+  }
+}

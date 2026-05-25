@@ -1,0 +1,20 @@
+{
+  "id": "055_03_computer_vision_tasks_object_detection__d2bef0f7",
+  "title": "YOLO 算法原理全深度解析",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/YOLO完整深度解析.md",
+  "headings": [
+    "📌 概述",
+    "🔴 YOLO v1 - 开创性工作",
+    "🟠 YOLO v2/v3 - 持续改进",
+    "🟡 YOLO v4/v5 - 工程优化",
+    "🟢 YOLO v6/v7/v8+ - 最新进展",
+    "📊 YOLO 系列对比",
+    "🔗 关键技术深入",
+    "📈 损失函数详解"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《YOLO 算法原理全深度解析》涉及的框、损失或后处理逻辑。",
+  "seed": 3535728887
+}

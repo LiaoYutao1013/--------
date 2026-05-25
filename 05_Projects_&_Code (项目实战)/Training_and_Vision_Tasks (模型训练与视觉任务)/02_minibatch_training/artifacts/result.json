@@ -1,0 +1,23 @@
+{
+  "title": "Mini-batch 训练与学习率实验",
+  "mode": "mini_batch",
+  "vision_task": "classification",
+  "objective": "观察 batch size 和学习率对收敛速度的影响。",
+  "result": {
+    "experiment": "mini_batch_training",
+    "runs": {
+      "8": {
+        "val_accuracy": 0.9,
+        "final_loss": 0.14580645956806507
+      },
+      "16": {
+        "val_accuracy": 0.875,
+        "final_loss": 0.18074548722258468
+      },
+      "64": {
+        "val_accuracy": 0.875,
+        "final_loss": 0.2923079981295425
+      }
+    }
+  }
+}

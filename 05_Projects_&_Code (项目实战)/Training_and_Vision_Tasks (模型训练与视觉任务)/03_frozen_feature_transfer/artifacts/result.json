@@ -1,0 +1,227 @@
+{
+  "title": "冻结特征的迁移学习",
+  "mode": "frozen_transfer",
+  "vision_task": "classification",
+  "objective": "模拟固定 backbone，只训练分类头的迁移学习流程。",
+  "result": {
+    "experiment": "frozen_feature_transfer",
+    "frozen_backbone": true,
+    "weights": [
+      0.22519439615341272,
+      2.9633757716446056,
+      1.6143868463413749
+    ],
+    "bias": -1.0331578916669268,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 0.6358653807150307,
+        "val_accuracy": 0.775
+      },
+      {
+        "epoch": 2,
+        "loss": 0.5564413309093308,
+        "val_accuracy": 0.825
+      },
+      {
+        "epoch": 3,
+        "loss": 0.5122475741734676,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 4,
+        "loss": 0.4799271989812069,
+        "val_accuracy": 0.925
+      },
+      {
+        "epoch": 5,
+        "loss": 0.45516714414054404,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 6,
+        "loss": 0.4356123845118653,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 7,
+        "loss": 0.41973412949168704,
+        "val_accuracy": 0.925
+      },
+      {
+        "epoch": 8,
+        "loss": 0.4065244714625503,
+        "val_accuracy": 0.925
+      },
+      {
+        "epoch": 9,
+        "loss": 0.3953076447565541,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 10,
+        "loss": 0.38561956037210254,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 11,
+        "loss": 0.37713300196450916,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 12,
+        "loss": 0.36961124303421033,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 13,
+        "loss": 0.36287886628280464,
+        "val_accuracy": 0.9
+      },
+      {
+        "epoch": 14,
+        "loss": 0.35680301177092366,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 15,
+        "loss": 0.351281044084201,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 16,
+        "loss": 0.346232252519856,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 17,
+        "loss": 0.34159214194355275,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 18,
+        "loss": 0.33730842477116824,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 19,
+        "loss": 0.3333381536782214,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 20,
+        "loss": 0.3296456344800723,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 21,
+        "loss": 0.32620088246350526,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 22,
+        "loss": 0.32297846375897626,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 23,
+        "loss": 0.3199566138356212,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 24,
+        "loss": 0.3171165583659152,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 25,
+        "loss": 0.31444198387247496,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 26,
+        "loss": 0.311918620627144,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 27,
+        "loss": 0.30953391065848895,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 28,
+        "loss": 0.3072767409900989,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 29,
+        "loss": 0.3051372273835924,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 30,
+        "loss": 0.3031065375580277,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 31,
+        "loss": 0.3011767455425793,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 32,
+        "loss": 0.29934071079048435,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 33,
+        "loss": 0.29759197714397295,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 34,
+        "loss": 0.295924687834256,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 35,
+        "loss": 0.2943335135273476,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 36,
+        "loss": 0.29281359105631616,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 37,
+        "loss": 0.2913604709642312,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 38,
+        "loss": 0.28997007235635425,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 39,
+        "loss": 0.2886386438518118,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 40,
+        "loss": 0.28736272965391174,
+        "val_accuracy": 0.875
+      }
+    ],
+    "val_accuracy": 0.875,
+    "metrics": {
+      "tp": 28,
+      "tn": 7,
+      "fp": 2,
+      "fn": 3,
+      "precision": 0.9333333333333333,
+      "recall": 0.9032258064516129
+    }
+  }
+}

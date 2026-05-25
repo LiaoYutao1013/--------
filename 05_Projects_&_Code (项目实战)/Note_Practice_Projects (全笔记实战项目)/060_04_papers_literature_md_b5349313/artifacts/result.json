@@ -1,0 +1,18 @@
+{
+  "note_title": "论文精读总览",
+  "topic": "paper_review",
+  "subtype": "paper",
+  "objective": "构建论文阅读队列、评分和复盘摘要",
+  "result": {
+    "lab": "paper_review_scorecard",
+    "criteria": {
+      "problem": 4,
+      "method": 5,
+      "experiment": 4,
+      "limitations": 3,
+      "reproducibility": 4
+    },
+    "score": 20,
+    "decision": "deep_read"
+  }
+}

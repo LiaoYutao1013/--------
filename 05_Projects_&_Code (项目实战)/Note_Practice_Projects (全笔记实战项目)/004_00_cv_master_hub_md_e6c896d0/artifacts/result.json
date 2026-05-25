@@ -1,0 +1,42 @@
+{
+  "note_title": "📚 机器视觉学习笔记 - 最终使用指南",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 6,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：🎉 项目完成总结",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：🚀 快速开始指南",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：💡 高效使用技巧",
+        "done": false
+      },
+      {
+        "step": 4,
+        "task": "实践：📋 推荐学习路径",
+        "done": false
+      },
+      {
+        "step": 5,
+        "task": "实践：🎓 学习效果评估",
+        "done": false
+      },
+      {
+        "step": 6,
+        "task": "实践：学习进度",
+        "done": false
+      }
+    ]
+  }
+}

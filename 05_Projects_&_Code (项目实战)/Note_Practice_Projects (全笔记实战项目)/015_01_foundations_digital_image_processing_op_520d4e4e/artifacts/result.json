@@ -1,0 +1,33 @@
+{
+  "note_title": "摄像头视图绘制与标注",
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "result": {
+    "lab": "detection_postprocess",
+    "input_boxes": 4,
+    "kept_boxes": [
+      {
+        "box": [
+          10,
+          10,
+          60,
+          60
+        ],
+        "score": 0.91,
+        "cls": 0
+      },
+      {
+        "box": [
+          70,
+          18,
+          120,
+          80
+        ],
+        "score": 0.77,
+        "cls": 1
+      }
+    ],
+    "pair_iou": 0.8160741885625966
+  }
+}

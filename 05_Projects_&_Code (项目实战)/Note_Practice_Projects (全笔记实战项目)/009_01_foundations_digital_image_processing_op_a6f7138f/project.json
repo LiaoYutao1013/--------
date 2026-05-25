@@ -1,0 +1,19 @@
+{
+  "id": "009_01_foundations_digital_image_processing_op_a6f7138f",
+  "title": "🧠 深度学习笔记：卷积核 (Kernel / Filter)",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Image_Filtering_&_Enhancement/Kernel and Filter.md",
+  "headings": [
+    "1. 什么是卷积核？",
+    "2. 核心数学操作：互相关运算",
+    "3. 卷积核的关键超参数",
+    "4. 卷积核学到了什么？",
+    "5. 常见特殊卷积核类型",
+    "6. 输出尺寸计算公式 📏",
+    "7. 相关资源与延伸阅读"
+  ],
+  "topic": "image_processing",
+  "subtype": "color",
+  "objective": "生成 RGB 样本并转换颜色空间",
+  "scenario": "构建一个 16x16 合成图像实验台，验证《🧠 深度学习笔记：卷积核 (Kernel / Filter)》中的像素处理思路。",
+  "seed": 2801210255
+}

@@ -1,0 +1,18 @@
+{
+  "id": "032_03_computer_vision_tasks_3d_vision_nerf_3d_a2b92fef",
+  "title": "📔 Note: 相机标定与张正友标定法",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera Calibration.md",
+  "headings": [
+    "1. 为什么要标定？",
+    "2. 张正友标定法 (Zhang's Method)",
+    "3. 标定的具体步骤",
+    "4. 误差来源与注意事项",
+    "5. 标定结果的应用",
+    "💡 Obsidian 联动建议"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《📔 Note: 相机标定与张正友标定法》相关几何计算。",
+  "seed": 2730045423
+}

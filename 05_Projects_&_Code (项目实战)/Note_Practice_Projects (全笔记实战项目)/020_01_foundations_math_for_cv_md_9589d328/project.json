@@ -1,0 +1,20 @@
+{
+  "id": "020_01_foundations_math_for_cv_md_9589d328",
+  "title": "线性代数基础",
+  "note_path": "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/线性代数.md",
+  "headings": [
+    "概述",
+    "核心概念",
+    "矩阵运算",
+    "SVD 应用",
+    "核心应用案例",
+    "常用技巧",
+    "练习题",
+    "参考资源"
+  ],
+  "topic": "math",
+  "subtype": "linear_algebra",
+  "objective": "运行矩阵乘法、投影和主方向估计",
+  "scenario": "用纯 Python 数值实验复现《线性代数基础》里的核心计算。",
+  "seed": 2508837672
+}

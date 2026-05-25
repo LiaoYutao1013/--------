@@ -1,0 +1,20 @@
+{
+  "id": "012_01_foundations_digital_image_processing_op_dc3a18e7",
+  "title": "🎭 非线性滤波与形态学操作",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Image_Filtering_&_Enhancement/非线性滤波器.md",
+  "headings": [
+    "概述",
+    "1. 中值滤波（Median Filter）",
+    "2. 双边滤波（Bilateral Filter）",
+    "3. 形态学操作（Morphological Operations）",
+    "4. 滤波对比与选择",
+    "5. 实际应用案例",
+    "6. 性能优化建议",
+    "自测练习"
+  ],
+  "topic": "image_processing",
+  "subtype": "color",
+  "objective": "生成 RGB 样本并转换颜色空间",
+  "scenario": "构建一个 16x16 合成图像实验台，验证《🎭 非线性滤波与形态学操作》中的像素处理思路。",
+  "seed": 3694794983
+}

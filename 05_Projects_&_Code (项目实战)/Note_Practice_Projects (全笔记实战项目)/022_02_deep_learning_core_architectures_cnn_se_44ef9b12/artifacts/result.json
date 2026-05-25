@@ -1,0 +1,24 @@
+{
+  "note_title": "🏗️ ResNet 残差学习完全指南",
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "result": {
+    "lab": "shape_and_params",
+    "layers": [
+      {
+        "layer": "conv3x3",
+        "params": 448
+      },
+      {
+        "layer": "conv3x3",
+        "params": 4640
+      },
+      {
+        "layer": "linear",
+        "params": 81930
+      }
+    ],
+    "total_params": 87018
+  }
+}

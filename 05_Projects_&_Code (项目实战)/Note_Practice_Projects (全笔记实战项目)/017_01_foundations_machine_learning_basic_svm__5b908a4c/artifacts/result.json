@@ -1,0 +1,29 @@
+{
+  "note_title": "机器学习基础",
+  "topic": "classification",
+  "subtype": "ml",
+  "objective": "训练一个传统机器学习风格的合成分类器",
+  "result": {
+    "lab": "classifier",
+    "weights": [
+      0.714436510993248,
+      -0.28990806204343955
+    ],
+    "bias": 0.0,
+    "accuracy": 1.0,
+    "mistakes_by_epoch": [
+      4,
+      2,
+      3,
+      3,
+      2,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

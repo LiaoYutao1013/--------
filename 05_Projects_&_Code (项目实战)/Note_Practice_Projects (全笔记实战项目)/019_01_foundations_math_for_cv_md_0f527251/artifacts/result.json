@@ -1,0 +1,14 @@
+{
+  "note_title": "概率论与统计",
+  "topic": "math",
+  "subtype": "linear_algebra",
+  "objective": "运行矩阵乘法、投影和主方向估计",
+  "result": {
+    "lab": "linear_algebra",
+    "principal_direction": [
+      0.8506496113409006,
+      0.5257330489189119
+    ],
+    "rayleigh_eigenvalue": 3.618033988738304
+  }
+}

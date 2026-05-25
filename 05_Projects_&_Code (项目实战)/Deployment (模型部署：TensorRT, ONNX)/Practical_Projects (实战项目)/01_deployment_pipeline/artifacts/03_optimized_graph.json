@@ -1,0 +1,7 @@
+{
+  "removed_nodes": 2,
+  "fused_patterns": [
+    "Conv+BatchNormalization"
+  ],
+  "estimated_latency_ms": 4.8
+}

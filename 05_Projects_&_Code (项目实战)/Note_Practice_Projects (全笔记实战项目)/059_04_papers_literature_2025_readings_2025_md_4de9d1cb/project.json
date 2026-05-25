@@ -1,0 +1,16 @@
+{
+  "id": "059_04_papers_literature_2025_readings_2025_md_4de9d1cb",
+  "title": "2025 论文阅读记录",
+  "note_path": "04_Papers_&_Literature (论文精读)/2025_Readings/2025论文阅读记录.md",
+  "headings": [
+    "快速记录模板",
+    "论文标题",
+    "待读列表",
+    "阅读原则"
+  ],
+  "topic": "paper_review",
+  "subtype": "paper",
+  "objective": "构建论文阅读队列、评分和复盘摘要",
+  "scenario": "构建论文阅读追踪器，对应《2025 论文阅读记录》的精读记录。",
+  "seed": 1307169227
+}

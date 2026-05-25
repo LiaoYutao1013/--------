@@ -1,0 +1,278 @@
+{
+  "title": "从零训练图像分类器",
+  "mode": "from_scratch",
+  "vision_task": "classification",
+  "objective": "理解参数、损失、梯度下降和训练/验证划分的完整闭环。",
+  "result": {
+    "experiment": "from_scratch_classifier",
+    "weights": [
+      -0.1891352184935794,
+      1.8172683241268284,
+      1.5245668485230497,
+      0.11059179780113956,
+      0.048743822436483966
+    ],
+    "bias": -0.23493037202164863,
+    "history": [
+      {
+        "epoch": 1,
+        "loss": 0.693147178559945,
+        "val_accuracy": 0.75
+      },
+      {
+        "epoch": 2,
+        "loss": 0.6447362492264515,
+        "val_accuracy": 0.8
+      },
+      {
+        "epoch": 3,
+        "loss": 0.6075490326924807,
+        "val_accuracy": 0.8
+      },
+      {
+        "epoch": 4,
+        "loss": 0.5779036338657789,
+        "val_accuracy": 0.8
+      },
+      {
+        "epoch": 5,
+        "loss": 0.5534327020954775,
+        "val_accuracy": 0.825
+      },
+      {
+        "epoch": 6,
+        "loss": 0.5326334051255143,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 7,
+        "loss": 0.5145419015930833,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 8,
+        "loss": 0.4985253115010575,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 9,
+        "loss": 0.4841549227933356,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 10,
+        "loss": 0.4711299480070501,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 11,
+        "loss": 0.4592315518928342,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 12,
+        "loss": 0.44829482327086967,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 13,
+        "loss": 0.4381914139858035,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 14,
+        "loss": 0.4288185763931377,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 15,
+        "loss": 0.4200920860725919,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 16,
+        "loss": 0.4119415575482876,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 17,
+        "loss": 0.4043072578073785,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 18,
+        "loss": 0.39713787441535503,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 19,
+        "loss": 0.3903889045709003,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 20,
+        "loss": 0.38402145741982197,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 21,
+        "loss": 0.3780013384429965,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 22,
+        "loss": 0.3722983316612984,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 23,
+        "loss": 0.3668856245050659,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 24,
+        "loss": 0.361739338464334,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 25,
+        "loss": 0.35683814026032457,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 26,
+        "loss": 0.3521629157919195,
+        "val_accuracy": 0.85
+      },
+      {
+        "epoch": 27,
+        "loss": 0.3476964940552845,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 28,
+        "loss": 0.34342341155606193,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 29,
+        "loss": 0.3393297100157844,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 30,
+        "loss": 0.3354027617811532,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 31,
+        "loss": 0.3316311185053266,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 32,
+        "loss": 0.32800437952963724,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 33,
+        "loss": 0.32451307704575516,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 34,
+        "loss": 0.32114857562327387,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 35,
+        "loss": 0.3179029840865911,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 36,
+        "loss": 0.3147690780452837,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 37,
+        "loss": 0.31174023164290876,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 38,
+        "loss": 0.3088103573038182,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 39,
+        "loss": 0.30597385243586817,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 40,
+        "loss": 0.3032255521961054,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 41,
+        "loss": 0.3005606875520864,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 42,
+        "loss": 0.29797484797771007,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 43,
+        "loss": 0.29546394821262145,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 44,
+        "loss": 0.2930241985910961,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 45,
+        "loss": 0.29065207851194647,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 46,
+        "loss": 0.2883443126772364,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 47,
+        "loss": 0.28609784977584785,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 48,
+        "loss": 0.2839098433294567,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 49,
+        "loss": 0.28177763445427034,
+        "val_accuracy": 0.875
+      },
+      {
+        "epoch": 50,
+        "loss": 0.27969873632274306,
+        "val_accuracy": 0.875
+      }
+    ],
+    "val_accuracy": 0.875,
+    "metrics": {
+      "tp": 25,
+      "tn": 10,
+      "fp": 4,
+      "fn": 1,
+      "precision": 0.8620689655172413,
+      "recall": 0.9615384615384616
+    }
+  }
+}

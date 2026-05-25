@@ -1,0 +1,18 @@
+{
+  "id": "031_03_computer_vision_tasks_3d_vision_nerf_3d_89b72328",
+  "title": "3D 深度学习架构",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Deep_Learning_Architectures/3D深度学习架构.md",
+  "headings": [
+    "主要输入形式",
+    "3D CNN",
+    "PointNet",
+    "PointNet++",
+    "稀疏卷积",
+    "选择建议"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《3D 深度学习架构》相关几何计算。",
+  "seed": 2310480680
+}

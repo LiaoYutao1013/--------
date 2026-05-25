@@ -1,0 +1,20 @@
+{
+  "id": "025_02_deep_learning_core_architectures_transf_1a657318",
+  "title": "Transformer 训练与优化",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Transformer 训练与优化.md",
+  "headings": [
+    "概述",
+    "为什么 Transformer 训练更敏感",
+    "AdamW",
+    "Warmup",
+    "正则化",
+    "Layer-wise Learning Rate Decay",
+    "梯度裁剪",
+    "EMA"
+  ],
+  "topic": "architecture",
+  "subtype": "transformer",
+  "objective": "用小矩阵演示 token、注意力和参数统计",
+  "scenario": "搭建轻量结构分析器，统计《Transformer 训练与优化》相关模块的形状和参数量。",
+  "seed": 442856216
+}

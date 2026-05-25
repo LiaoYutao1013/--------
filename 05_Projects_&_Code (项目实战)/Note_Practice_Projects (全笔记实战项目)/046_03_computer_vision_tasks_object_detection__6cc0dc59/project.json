@@ -1,0 +1,16 @@
+{
+  "id": "046_03_computer_vision_tasks_object_detection__6cc0dc59",
+  "title": "Vision Transformer 在目标检测中的应用",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/Vision_Transformer_in_Object_Detection.md",
+  "headings": [
+    "快速理解",
+    "DETR 的关键变化",
+    "学习重点",
+    "相关链接"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Vision Transformer 在目标检测中的应用》涉及的框、损失或后处理逻辑。",
+  "seed": 1824578649
+}

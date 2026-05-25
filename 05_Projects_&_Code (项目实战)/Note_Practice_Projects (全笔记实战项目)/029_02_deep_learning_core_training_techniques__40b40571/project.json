@@ -1,0 +1,17 @@
+{
+  "id": "029_02_deep_learning_core_training_techniques__40b40571",
+  "title": "训练技巧总览",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Training_Techniques (数据增强、优化器、正则化、损失函数)/训练技巧总览.md",
+  "headings": [
+    "四类核心技巧",
+    "专题入口",
+    "常见训练流程",
+    "CV 任务中的重点",
+    "实验记录建议"
+  ],
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "scenario": "搭建轻量结构分析器，统计《训练技巧总览》相关模块的形状和参数量。",
+  "seed": 1085539697
+}

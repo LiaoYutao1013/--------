@@ -1,0 +1,32 @@
+{
+  "title": "K 折交叉验证",
+  "mode": "cross_validation",
+  "vision_task": "classification",
+  "objective": "学习小数据集上更稳健的模型评估方式。",
+  "result": {
+    "experiment": "cross_validation",
+    "folds": [
+      {
+        "fold": 1,
+        "val_accuracy": 1.0
+      },
+      {
+        "fold": 2,
+        "val_accuracy": 0.9666666666666667
+      },
+      {
+        "fold": 3,
+        "val_accuracy": 0.9333333333333333
+      },
+      {
+        "fold": 4,
+        "val_accuracy": 0.9666666666666667
+      },
+      {
+        "fold": 5,
+        "val_accuracy": 0.8333333333333334
+      }
+    ],
+    "mean_accuracy": 0.9400000000000001
+  }
+}

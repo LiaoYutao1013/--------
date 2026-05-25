@@ -1,0 +1,17 @@
+{
+  "id": "048_03_computer_vision_tasks_object_detection__943521da",
+  "title": "📐 边界框回归损失函数：从 IoU 到 CIoU",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/YOLO_Loss_Functions.md",
+  "headings": [
+    "1. 为什么需要 IoU 损失？",
+    "2. GIoU (Generalized IoU)：解决不相交问题",
+    "3. DIoU (Distance IoU)：引入中心点距离",
+    "4. CIoU (Complete IoU)：考虑长宽比",
+    "5. 性能优劣全维度对比"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《📐 边界框回归损失函数：从 IoU 到 CIoU》涉及的框、损失或后处理逻辑。",
+  "seed": 2486510042
+}

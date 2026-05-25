@@ -1,0 +1,18 @@
+{
+  "id": "026_02_deep_learning_core_architectures_transf_1766aaab",
+  "title": "Vision Transformer",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Vision Transformer.md",
+  "headings": [
+    "基本流程",
+    "核心公式",
+    "ViT 与 CNN 的区别",
+    "Swin Transformer",
+    "MAE",
+    "与检测任务的关系"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Vision Transformer》涉及的框、损失或后处理逻辑。",
+  "seed": 392604331
+}

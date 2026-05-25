@@ -1,0 +1,20 @@
+{
+  "id": "051_03_computer_vision_tasks_object_detection__284b91b5",
+  "title": "Kalman 滤波与目标跟踪",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/Kalman Filter.md",
+  "headings": [
+    "概述",
+    "基本原理",
+    "Kalman 滤波算法",
+    "Kalman 增益的直观理解",
+    "实现示例",
+    "参数调节",
+    "与目标检测结合：MOT（多目标跟踪）",
+    "扩展模型"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Kalman 滤波与目标跟踪》涉及的框、损失或后处理逻辑。",
+  "seed": 676041141
+}

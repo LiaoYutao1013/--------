@@ -1,0 +1,5 @@
+{
+  "runtime": "TensorRT",
+  "precision": "FP16",
+  "target": "server"
+}

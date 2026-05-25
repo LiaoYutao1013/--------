@@ -1,0 +1,121 @@
+{
+  "ir_version": "demo-onnx-json",
+  "opset": 17,
+  "inputs": [
+    {
+      "name": "images",
+      "shape": [
+        "batch",
+        4
+      ],
+      "dtype": "float32"
+    }
+  ],
+  "outputs": [
+    {
+      "name": "probabilities",
+      "shape": [
+        "batch",
+        2
+      ],
+      "dtype": "float32"
+    }
+  ],
+  "dynamic_axes": {
+    "images": [
+      0
+    ],
+    "probabilities": [
+      0
+    ]
+  },
+  "nodes": [
+    {
+      "name": "linear1",
+      "op_type": "Gemm",
+      "inputs": [
+        "images",
+        "linear1_weight",
+        "linear1_bias"
+      ],
+      "outputs": [
+        "hidden"
+      ]
+    },
+    {
+      "name": "relu1",
+      "op_type": "Relu",
+      "inputs": [
+        "hidden"
+      ],
+      "outputs": [
+        "hidden_relu"
+      ]
+    },
+    {
+      "name": "linear2",
+      "op_type": "Gemm",
+      "inputs": [
+        "hidden_relu",
+        "linear2_weight",
+        "linear2_bias"
+      ],
+      "outputs": [
+        "logits"
+      ]
+    },
+    {
+      "name": "prob",
+      "op_type": "Softmax",
+      "inputs": [
+        "logits"
+      ],
+      "outputs": [
+        "probabilities"
+      ]
+    }
+  ],
+  "initializers": {
+    "linear1_weight": [
+      [
+        0.2,
+        -0.1,
+        0.4,
+        0.1
+      ],
+      [
+        -0.3,
+        0.5,
+        0.1,
+        -0.2
+      ],
+      [
+        0.6,
+        0.1,
+        -0.3,
+        0.2
+      ]
+    ],
+    "linear1_bias": [
+      0.01,
+      -0.02,
+      0.03
+    ],
+    "linear2_weight": [
+      [
+        0.3,
+        -0.2,
+        0.5
+      ],
+      [
+        -0.4,
+        0.6,
+        0.2
+      ]
+    ],
+    "linear2_bias": [
+      0.04,
+      -0.01
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "057_03_computer_vision_tasks_segmentation_md_ab3a227e",
+  "title": "图像分割总览",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Segmentation (分割：语义、实例、全景)/图像分割总览.md",
+  "headings": [
+    "三类分割",
+    "典型模型",
+    "损失函数",
+    "评价指标",
+    "与检测的关系"
+  ],
+  "topic": "segmentation",
+  "subtype": "mask",
+  "objective": "生成合成 mask 并计算 IoU 与连通域",
+  "scenario": "生成合成分割 mask，计算《图像分割总览》相关的 IoU 和连通域。",
+  "seed": 2872713854
+}

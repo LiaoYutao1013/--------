@@ -1,0 +1,17 @@
+{
+  "id": "044_03_computer_vision_tasks_object_detection__99ddb4f5",
+  "title": "Kalman Filter",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/Kalman Filter.md",
+  "headings": [
+    "📖 笔记：卡尔曼滤波 (Kalman Filter) 深度指南",
+    "2. 数学基石：状态空间表达式",
+    "3. 卡尔曼滤波的五个黄金公式",
+    "4. 核心推导：卡尔曼增益 $K$ 是怎么来的？",
+    "5. 对比：KF vs EKF vs UKF"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Kalman Filter》涉及的框、损失或后处理逻辑。",
+  "seed": 2581443829
+}

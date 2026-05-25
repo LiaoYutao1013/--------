@@ -1,0 +1,17 @@
+{
+  "id": "041_03_computer_vision_tasks_generative_models_bf82d304",
+  "title": "生成模型总览",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Generative_Models (Diffusion, GAN)/生成模型总览.md",
+  "headings": [
+    "主要路线",
+    "GAN",
+    "Diffusion",
+    "条件生成",
+    "与 CV 的关系"
+  ],
+  "topic": "generative",
+  "subtype": "diffusion",
+  "objective": "模拟扩散噪声调度和逐步去噪",
+  "scenario": "用一维信号模拟噪声添加和去噪过程，对应《生成模型总览》的生成建模思想。",
+  "seed": 3213021956
+}

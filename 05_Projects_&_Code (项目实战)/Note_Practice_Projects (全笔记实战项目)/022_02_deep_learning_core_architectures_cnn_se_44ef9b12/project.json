@@ -1,0 +1,20 @@
+{
+  "id": "022_02_deep_learning_core_architectures_cnn_se_44ef9b12",
+  "title": "🏗️ ResNet 残差学习完全指南",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
+  "headings": [
+    "概述",
+    "1. 问题背景",
+    "2. 残差学习的核心思想",
+    "3. ResNet 架构",
+    "4. PyTorch 完整实现",
+    "5. 性能分析",
+    "6. 改进变体",
+    "7. 迁移学习应用"
+  ],
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "scenario": "搭建轻量结构分析器，统计《🏗️ ResNet 残差学习完全指南》相关模块的形状和参数量。",
+  "seed": 1156553490
+}

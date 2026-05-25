@@ -1,0 +1,32 @@
+{
+  "note_title": "机器视觉学习路线图",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 4,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：📊 学习阶段概览",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：📚 详细学习路径",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：🎓 学习建议",
+        "done": false
+      },
+      {
+        "step": 4,
+        "task": "实践：🔗 快速导航",
+        "done": false
+      }
+    ]
+  }
+}

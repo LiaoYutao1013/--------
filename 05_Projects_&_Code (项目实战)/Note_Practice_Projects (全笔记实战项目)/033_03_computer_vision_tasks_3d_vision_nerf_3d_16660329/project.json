@@ -1,0 +1,17 @@
+{
+  "id": "033_03_computer_vision_tasks_3d_vision_nerf_3d_16660329",
+  "title": "📔 Note: 相机模型 (Camera Models)",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera Models.md",
+  "headings": [
+    "1. 针孔相机模型 (Pinhole Camera Model)",
+    "2. 畸变模型 (Distortion Models)",
+    "3. 完整的参数集合",
+    "4. 纠正流程 (Undistortion)",
+    "💡 深度洞察 (Pro Tips)"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《📔 Note: 相机模型 (Camera Models)》相关几何计算。",
+  "seed": 375784233
+}

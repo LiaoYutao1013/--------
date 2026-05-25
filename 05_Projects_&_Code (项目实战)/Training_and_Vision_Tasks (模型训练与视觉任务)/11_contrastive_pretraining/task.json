@@ -1,0 +1,8 @@
+{
+  "id": "11_contrastive_pretraining",
+  "title": "自监督对比学习预训练",
+  "mode": "contrastive",
+  "vision_task": "representation_learning",
+  "objective": "通过正负样本相似度理解对比学习的训练目标。",
+  "seed": 20260530
+}

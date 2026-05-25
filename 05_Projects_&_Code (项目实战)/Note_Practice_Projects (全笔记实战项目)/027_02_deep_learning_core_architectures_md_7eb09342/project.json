@@ -1,0 +1,16 @@
+{
+  "id": "027_02_deep_learning_core_architectures_md_7eb09342",
+  "title": "模型架构总览",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/模型架构总览.md",
+  "headings": [
+    "架构谱系",
+    "选择架构的标准",
+    "与任务的关系",
+    "训练相关"
+  ],
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "scenario": "搭建轻量结构分析器，统计《模型架构总览》相关模块的形状和参数量。",
+  "seed": 2125501250
+}

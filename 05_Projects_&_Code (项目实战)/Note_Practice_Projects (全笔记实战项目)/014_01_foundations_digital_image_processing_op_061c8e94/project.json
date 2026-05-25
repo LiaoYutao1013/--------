@@ -1,0 +1,20 @@
+{
+  "id": "014_01_foundations_digital_image_processing_op_061c8e94",
+  "title": "📐 几何变换完全指南",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Pixel_Operations_&_Transformation/几何变换完全指南.md",
+  "headings": [
+    "概述",
+    "1. 核心概念",
+    "2. 基础变换详解",
+    "3. 高级变换",
+    "4. 性能优化与实践",
+    "5. 应用案例",
+    "6. 常见问题",
+    "7. 自测练习"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《📐 几何变换完全指南》相关几何计算。",
+  "seed": 102534804
+}

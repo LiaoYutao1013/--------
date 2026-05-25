@@ -1,0 +1,26 @@
+{
+  "title": "类别不均衡训练",
+  "mode": "class_imbalance",
+  "vision_task": "classification",
+  "objective": "比较普通损失和类别加权损失在少数类上的表现。",
+  "result": {
+    "experiment": "class_imbalance_training",
+    "train_positive_count": 46,
+    "plain": {
+      "tp": 9,
+      "tn": 33,
+      "fp": 0,
+      "fn": 3,
+      "precision": 1.0,
+      "recall": 0.75
+    },
+    "weighted": {
+      "tp": 12,
+      "tn": 32,
+      "fp": 1,
+      "fn": 0,
+      "precision": 0.9230769230769231,
+      "recall": 1.0
+    }
+  }
+}

@@ -1,0 +1,1 @@
+trtexec --onnx=model.onnx --saveEngine=model.engine --memPoolSize=workspace:2048 --minShapes=images:1x3x320x320 --optShapes=images:4x3x640x640 --maxShapes=images:8x3x640x640 --fp16

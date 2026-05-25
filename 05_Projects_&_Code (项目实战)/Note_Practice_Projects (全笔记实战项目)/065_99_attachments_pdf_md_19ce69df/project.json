@@ -1,0 +1,16 @@
+{
+  "id": "065_99_attachments_pdf_md_19ce69df",
+  "title": "附件管理说明",
+  "note_path": "99_Attachments (图片、PDF、附件)/附件管理说明.md",
+  "headings": [
+    "推荐结构",
+    "命名建议",
+    "使用原则",
+    "与笔记关联"
+  ],
+  "topic": "vault_audit",
+  "subtype": "attachment",
+  "objective": "扫描附件引用并生成整理报告",
+  "scenario": "扫描模拟附件清单并输出整理建议，对应《附件管理说明》。",
+  "seed": 432957919
+}

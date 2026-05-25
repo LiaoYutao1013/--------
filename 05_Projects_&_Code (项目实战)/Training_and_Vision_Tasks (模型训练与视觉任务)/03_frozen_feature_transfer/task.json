@@ -1,0 +1,8 @@
+{
+  "id": "03_frozen_feature_transfer",
+  "title": "冻结特征的迁移学习",
+  "mode": "frozen_transfer",
+  "vision_task": "classification",
+  "objective": "模拟固定 backbone，只训练分类头的迁移学习流程。",
+  "seed": 20260522
+}

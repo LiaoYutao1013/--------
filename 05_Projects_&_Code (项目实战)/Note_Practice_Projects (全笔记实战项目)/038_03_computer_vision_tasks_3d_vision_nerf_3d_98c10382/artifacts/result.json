@@ -1,0 +1,42 @@
+{
+  "note_title": "神经渲染与重建",
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "result": {
+    "lab": "note_to_tasks",
+    "task_count": 6,
+    "tasks": [
+      {
+        "step": 1,
+        "task": "实践：任务目标",
+        "done": false
+      },
+      {
+        "step": 2,
+        "task": "实践：NeRF",
+        "done": false
+      },
+      {
+        "step": 3,
+        "task": "实践：NeRF 的限制",
+        "done": false
+      },
+      {
+        "step": 4,
+        "task": "实践：3D Gaussian Splatting",
+        "done": false
+      },
+      {
+        "step": 5,
+        "task": "实践：SLAM 与重建",
+        "done": false
+      },
+      {
+        "step": 6,
+        "task": "实践：学习路线",
+        "done": false
+      }
+    ]
+  }
+}

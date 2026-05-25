@@ -1,0 +1,20 @@
+{
+  "id": "019_01_foundations_math_for_cv_md_0f527251",
+  "title": "概率论与统计",
+  "note_path": "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/概率论.md",
+  "headings": [
+    "概述",
+    "核心概念",
+    "重要分布",
+    "参数估计",
+    "贝叶斯推断",
+    "概率图模型",
+    "蒙特卡洛方法",
+    "统计检验"
+  ],
+  "topic": "math",
+  "subtype": "linear_algebra",
+  "objective": "运行矩阵乘法、投影和主方向估计",
+  "scenario": "用纯 Python 数值实验复现《概率论与统计》里的核心计算。",
+  "seed": 257061457
+}

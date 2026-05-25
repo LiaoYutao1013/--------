@@ -1,0 +1,8 @@
+{
+  "id": "05_augmentation_ablation",
+  "title": "数据增强消融实验",
+  "mode": "augmentation",
+  "vision_task": "classification",
+  "objective": "对比无增强、噪声增强、翻转增强对验证集的影响。",
+  "seed": 20260524
+}

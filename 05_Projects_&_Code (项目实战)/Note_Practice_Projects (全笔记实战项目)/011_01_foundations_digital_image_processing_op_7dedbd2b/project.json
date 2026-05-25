@@ -1,0 +1,11 @@
+{
+  "id": "011_01_foundations_digital_image_processing_op_7dedbd2b",
+  "title": "MobileNet",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Image_Filtering_&_Enhancement/MobileNet.md",
+  "headings": [],
+  "topic": "architecture",
+  "subtype": "network",
+  "objective": "做网络层形状传播和参数量估算",
+  "scenario": "搭建轻量结构分析器，统计《MobileNet》相关模块的形状和参数量。",
+  "seed": 2112732459
+}

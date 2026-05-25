@@ -1,0 +1,31 @@
+{
+  "note_title": "竞赛项目记录模板",
+  "topic": "competition",
+  "subtype": "competition",
+  "objective": "生成竞赛 baseline、验证和复盘计划",
+  "result": {
+    "lab": "competition_tracker",
+    "experiments": [
+      {
+        "name": "baseline",
+        "cv": 0.71
+      },
+      {
+        "name": "augmentation",
+        "cv": 0.735
+      },
+      {
+        "name": "larger_model",
+        "cv": 0.748
+      },
+      {
+        "name": "tta",
+        "cv": 0.752
+      }
+    ],
+    "best": {
+      "name": "tta",
+      "cv": 0.752
+    }
+  }
+}

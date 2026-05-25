@@ -1,0 +1,16 @@
+{
+  "id": "021_01_foundations_md_3ec69428",
+  "title": "基础知识总览",
+  "note_path": "01_Foundations (底层基石)/基础知识总览.md",
+  "headings": [
+    "模块结构",
+    "学习顺序",
+    "与 YOLO 的关系",
+    "检查点"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《基础知识总览》涉及的框、损失或后处理逻辑。",
+  "seed": 1053201448
+}

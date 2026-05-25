@@ -1,0 +1,16 @@
+{
+  "id": "037_03_computer_vision_tasks_3d_vision_nerf_3d_9072fa73",
+  "title": "3D 视觉总览",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D视觉总览.md",
+  "headings": [
+    "模块结构",
+    "学习路线",
+    "与 2D CV 的区别",
+    "必须掌握"
+  ],
+  "topic": "planner",
+  "subtype": "roadmap",
+  "objective": "把知识节点转成可执行学习路线和完成度报告",
+  "scenario": "把《3D 视觉总览》转化为可执行任务、里程碑和检查项。",
+  "seed": 2423454323
+}

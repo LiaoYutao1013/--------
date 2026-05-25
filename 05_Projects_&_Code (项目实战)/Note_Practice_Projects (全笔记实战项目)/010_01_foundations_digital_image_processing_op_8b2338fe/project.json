@@ -1,0 +1,19 @@
+{
+  "id": "010_01_foundations_digital_image_processing_op_8b2338fe",
+  "title": "📖 机器视觉笔记：线性滤波器 (Linear Filters)",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Image_Filtering_&_Enhancement/Linear Filters.md",
+  "headings": [
+    "1. 概述",
+    "2. 核心数学原理",
+    "3. 常见线性滤波器分类",
+    "4. 关键特性",
+    "5. 边界处理 (Boundary Conditions)",
+    "6. OpenCV 常用函数 (Python)",
+    "7. 关联学习路径"
+  ],
+  "topic": "classification",
+  "subtype": "classifier",
+  "objective": "训练一个可解释的合成分类器",
+  "scenario": "生成二维样本并训练小分类器，观察《📖 机器视觉笔记：线性滤波器 (Linear Filters)》相关的决策边界。",
+  "seed": 2334341374
+}

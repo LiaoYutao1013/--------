@@ -1,0 +1,17 @@
+{
+  "id": "024_02_deep_learning_core_architectures_mlp_ot_2d0924b4",
+  "title": "MLP Mixer 与混合架构",
+  "note_path": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/MLP_&_Others/MLP Mixer 与混合架构.md",
+  "headings": [
+    "MLP-Mixer 结构",
+    "两类混合",
+    "与 CNN / Transformer 的对比",
+    "混合架构",
+    "学习价值"
+  ],
+  "topic": "architecture",
+  "subtype": "transformer",
+  "objective": "用小矩阵演示 token、注意力和参数统计",
+  "scenario": "搭建轻量结构分析器，统计《MLP Mixer 与混合架构》相关模块的形状和参数量。",
+  "seed": 755573940
+}

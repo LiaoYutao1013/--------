@@ -1,0 +1,8 @@
+{
+  "id": "07_class_imbalance_training",
+  "title": "类别不均衡训练",
+  "mode": "class_imbalance",
+  "vision_task": "classification",
+  "objective": "比较普通损失和类别加权损失在少数类上的表现。",
+  "seed": 20260526
+}

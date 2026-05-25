@@ -1,0 +1,20 @@
+{
+  "id": "018_01_foundations_math_for_cv_md_d7c979e9",
+  "title": "最优化理论",
+  "note_path": "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/最优化.md",
+  "headings": [
+    "概述",
+    "核心概念",
+    "一阶方法：梯度下降",
+    "一阶方法的改进",
+    "二阶方法",
+    "学习率调度",
+    "约束优化",
+    "批量大小与学习率的关系"
+  ],
+  "topic": "math",
+  "subtype": "linear_algebra",
+  "objective": "运行矩阵乘法、投影和主方向估计",
+  "scenario": "用纯 Python 数值实验复现《最优化理论》里的核心计算。",
+  "seed": 3620305385
+}

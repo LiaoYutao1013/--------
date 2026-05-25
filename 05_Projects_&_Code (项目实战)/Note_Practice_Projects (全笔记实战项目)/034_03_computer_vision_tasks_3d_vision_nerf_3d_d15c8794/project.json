@@ -1,0 +1,17 @@
+{
+  "id": "034_03_computer_vision_tasks_3d_vision_nerf_3d_d15c8794",
+  "title": "📔 Note: 坐标系变换 (Coordinate Transformations)",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Coordinate Transformations.md",
+  "headings": [
+    "1. 概述：视觉的“降维打击”",
+    "2. 变换详解",
+    "3. 最终组合：相机内参矩阵 (Intrinsic Matrix)",
+    "4. 全局投影公式",
+    "💡 避坑指南 (Obsidian Tips)"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《📔 Note: 坐标系变换 (Coordinate Transformations)》相关几何计算。",
+  "seed": 3512502164
+}

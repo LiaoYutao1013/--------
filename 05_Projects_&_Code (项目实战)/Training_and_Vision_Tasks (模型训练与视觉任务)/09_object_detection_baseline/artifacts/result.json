@@ -1,0 +1,12 @@
+{
+  "title": "目标检测框回归 Baseline",
+  "mode": "detection",
+  "vision_task": "object_detection",
+  "objective": "训练一个合成检测框回归器，并计算 IoU。",
+  "result": {
+    "experiment": "object_detection_baseline",
+    "mean_iou": 0.6702949229197724,
+    "min_iou": 0.38637476443284974,
+    "max_iou": 0.8214743403479399
+  }
+}

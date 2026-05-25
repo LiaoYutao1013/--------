@@ -1,0 +1,35 @@
+{
+  "note_title": "📔 Note: 对极几何 (Epipolar Geometry)",
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "result": {
+    "lab": "camera_projection",
+    "projected_points": [
+      [
+        120.0,
+        40.0
+      ],
+      [
+        520.0,
+        40.0
+      ],
+      [
+        520.0,
+        440.0
+      ],
+      [
+        120.0,
+        440.0
+      ],
+      [
+        320.0,
+        240.0
+      ]
+    ],
+    "image_centroid": [
+      320.0,
+      240.0
+    ]
+  }
+}

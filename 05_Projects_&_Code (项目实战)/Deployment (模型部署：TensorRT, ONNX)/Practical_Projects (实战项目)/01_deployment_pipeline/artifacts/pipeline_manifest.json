@@ -1,0 +1,74 @@
+{
+  "target": "server",
+  "batch_size": 4,
+  "input_size": [
+    640,
+    640
+  ],
+  "stages": [
+    {
+      "name": "checkpoint_validation",
+      "status": "PASS",
+      "artifact": "artifacts\\01_checkpoint.json",
+      "checks": [
+        "weights_found",
+        "input_signature_recorded",
+        "class_names_recorded"
+      ],
+      "elapsed_ms": 0.489
+    },
+    {
+      "name": "export_onnx",
+      "status": "PASS",
+      "artifact": "artifacts\\02_model.onnx.json",
+      "checks": [
+        "opset=17",
+        "dynamic_batch=true",
+        "numerical_parity_target=1e-5"
+      ],
+      "elapsed_ms": 0.3
+    },
+    {
+      "name": "graph_optimization",
+      "status": "PASS",
+      "artifact": "artifacts\\03_optimized_graph.json",
+      "checks": [
+        "constant_folding",
+        "conv_bn_fusion",
+        "unused_nodes_removed"
+      ],
+      "elapsed_ms": 0.253
+    },
+    {
+      "name": "engine_selection",
+      "status": "PASS",
+      "artifact": "artifacts\\04_engine_plan.json",
+      "checks": [
+        "runtime_selected",
+        "device_constraints_checked"
+      ],
+      "elapsed_ms": 0.224
+    },
+    {
+      "name": "quantization_plan",
+      "status": "PASS",
+      "artifact": "artifacts\\05_quantization_plan.json",
+      "checks": [
+        "calibration_policy_defined",
+        "fallback_precision_defined"
+      ],
+      "elapsed_ms": 0.829
+    },
+    {
+      "name": "deployment_package",
+      "status": "PASS",
+      "artifact": "artifacts\\06_package_manifest.json",
+      "checks": [
+        "preprocess_version_pinned",
+        "postprocess_version_pinned",
+        "smoke_test_required"
+      ],
+      "elapsed_ms": 0.616
+    }
+  ]
+}

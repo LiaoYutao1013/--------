@@ -1,0 +1,18 @@
+{
+  "note_title": "模型部署总览",
+  "topic": "deployment",
+  "subtype": "deployment",
+  "objective": "模拟部署流水线并检查关键工程风险",
+  "result": {
+    "lab": "deployment_audit",
+    "checks": {
+      "preprocess_match": true,
+      "postprocess_match": true,
+      "onnx_error_ok": true,
+      "dynamic_batch_tested": true,
+      "latency_recorded": true,
+      "bad_input_handled": true
+    },
+    "passed": true
+  }
+}

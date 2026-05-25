@@ -1,0 +1,20 @@
+{
+  "id": "013_01_foundations_digital_image_processing_op_01a16c06",
+  "title": "图像表示与颜色空间",
+  "note_path": "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/Image_Representation_&_Color_Spaces/颜色空间与表示.md",
+  "headings": [
+    "概述",
+    "基本概念",
+    "RGB 颜色空间",
+    "HSV 颜色空间",
+    "其他颜色空间",
+    "颜色空间转换矩阵",
+    "Bayer 阵列与图像采集",
+    "图像尺寸标准"
+  ],
+  "topic": "image_processing",
+  "subtype": "color",
+  "objective": "生成 RGB 样本并转换颜色空间",
+  "scenario": "构建一个 16x16 合成图像实验台，验证《图像表示与颜色空间》中的像素处理思路。",
+  "seed": 27356166
+}

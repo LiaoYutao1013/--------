@@ -1,0 +1,8 @@
+{
+  "id": "12_training_report_pack",
+  "title": "训练报告与错误分析",
+  "mode": "report",
+  "vision_task": "evaluation",
+  "objective": "把训练曲线、混淆矩阵、错误样本和下一步计划汇总成报告。",
+  "seed": 20260531
+}

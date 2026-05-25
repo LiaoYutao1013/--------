@@ -1,0 +1,36 @@
+{
+  "model_name": "demo_detector",
+  "preprocess": {
+    "train_version": "preprocess-v3",
+    "deploy_version": "preprocess-v3",
+    "resize": "letterbox",
+    "normalize": "imagenet"
+  },
+  "postprocess": {
+    "validation_version": "postprocess-v2",
+    "deploy_version": "postprocess-v2",
+    "nms_iou_threshold": 0.45,
+    "confidence_threshold": 0.25
+  },
+  "parity": {
+    "onnx_max_abs_error": 0.000004,
+    "allowed_max_abs_error": 0.00001
+  },
+  "dynamic_input_tests": [
+    {"batch": 1, "height": 320, "width": 320, "passed": true},
+    {"batch": 4, "height": 640, "width": 640, "passed": true},
+    {"batch": 8, "height": 960, "width": 960, "passed": true}
+  ],
+  "performance": {
+    "latency_p50_ms": 5.6,
+    "latency_p95_ms": 8.9,
+    "throughput_fps": 412.0,
+    "gpu_memory_mib": 980
+  },
+  "error_handling": {
+    "empty_image": true,
+    "wrong_dtype": true,
+    "oversized_image": true,
+    "corrupt_input": true
+  }
+}

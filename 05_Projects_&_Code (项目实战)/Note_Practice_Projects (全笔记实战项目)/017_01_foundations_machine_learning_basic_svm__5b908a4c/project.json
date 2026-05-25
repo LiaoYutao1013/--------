@@ -1,0 +1,17 @@
+{
+  "id": "017_01_foundations_machine_learning_basic_svm__5b908a4c",
+  "title": "机器学习基础",
+  "note_path": "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/机器学习基础.md",
+  "headings": [
+    "监督学习",
+    "无监督学习",
+    "降维",
+    "评价指标",
+    "与深度学习的关系"
+  ],
+  "topic": "classification",
+  "subtype": "ml",
+  "objective": "训练一个传统机器学习风格的合成分类器",
+  "scenario": "生成二维样本并训练小分类器，观察《机器学习基础》相关的决策边界。",
+  "seed": 1536199244
+}

@@ -1,0 +1,16 @@
+{
+  "id": "040_03_computer_vision_tasks_cv_md_43fed8ff",
+  "title": "CV 任务总览",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/CV任务总览.md",
+  "headings": [
+    "任务地图",
+    "学习建议",
+    "共用基础",
+    "任务训练入口"
+  ],
+  "topic": "training",
+  "subtype": "training",
+  "objective": "运行一个小型训练循环并记录损失曲线",
+  "scenario": "运行可复现训练循环，记录《CV 任务总览》相关训练策略的损失变化。",
+  "seed": 1140775167
+}

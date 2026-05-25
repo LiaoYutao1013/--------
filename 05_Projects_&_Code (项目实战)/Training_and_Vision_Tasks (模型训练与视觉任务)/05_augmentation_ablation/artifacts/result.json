@@ -1,0 +1,26 @@
+{
+  "title": "数据增强消融实验",
+  "mode": "augmentation",
+  "vision_task": "classification",
+  "objective": "对比无增强、噪声增强、翻转增强对验证集的影响。",
+  "result": {
+    "experiment": "augmentation_ablation",
+    "runs": {
+      "none": {
+        "train_count": 120,
+        "val_accuracy": 1.0,
+        "recall": 1.0
+      },
+      "noise": {
+        "train_count": 240,
+        "val_accuracy": 1.0,
+        "recall": 1.0
+      },
+      "flip": {
+        "train_count": 240,
+        "val_accuracy": 0.975,
+        "recall": 0.9642857142857143
+      }
+    }
+  }
+}

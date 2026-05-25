@@ -1,0 +1,8 @@
+{
+  "id": "08_cross_validation",
+  "title": "K 折交叉验证",
+  "mode": "cross_validation",
+  "vision_task": "classification",
+  "objective": "学习小数据集上更稳健的模型评估方式。",
+  "seed": 20260527
+}

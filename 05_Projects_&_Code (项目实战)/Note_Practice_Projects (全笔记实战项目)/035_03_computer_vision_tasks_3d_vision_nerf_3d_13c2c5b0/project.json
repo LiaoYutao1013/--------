@@ -1,0 +1,18 @@
+{
+  "id": "035_03_computer_vision_tasks_3d_vision_nerf_3d_13c2c5b0",
+  "title": "📔 Note: 对极几何 (Epipolar Geometry)",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Epipolar Geometry.md",
+  "headings": [
+    "1. 核心概念：对极约束",
+    "2. 基础矩阵 (F) 与 本质矩阵 (E)",
+    "3. 单应矩阵 (Homography, H)",
+    "4. 如何求解这些矩阵？（八点法）",
+    "5. 三维重建的最后一步：三角测量 (Triangulation)",
+    "💡 深度总结与面试高频"
+  ],
+  "topic": "three_d",
+  "subtype": "geometry",
+  "objective": "用合成三维点验证投影、变换和误差指标",
+  "scenario": "用合成 3D 点和相机参数验证《📔 Note: 对极几何 (Epipolar Geometry)》相关几何计算。",
+  "seed": 331531696
+}

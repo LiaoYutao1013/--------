@@ -1,0 +1,13 @@
+{
+  "note_title": "图像分类总览",
+  "topic": "segmentation",
+  "subtype": "mask",
+  "objective": "生成合成 mask 并计算 IoU 与连通域",
+  "result": {
+    "lab": "segmentation_metrics",
+    "iou": 0.620253164556962,
+    "components": 1,
+    "intersection": 49,
+    "union": 79
+  }
+}

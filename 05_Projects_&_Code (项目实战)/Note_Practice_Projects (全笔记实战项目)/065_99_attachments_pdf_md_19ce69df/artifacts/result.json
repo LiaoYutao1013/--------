@@ -1,0 +1,22 @@
+{
+  "note_title": "附件管理说明",
+  "topic": "vault_audit",
+  "subtype": "attachment",
+  "objective": "扫描附件引用并生成整理报告",
+  "result": {
+    "lab": "attachment_audit",
+    "classified": {
+      "images": [
+        "diagram.png",
+        "camera_sample.jpg"
+      ],
+      "papers": [
+        "paper.pdf"
+      ],
+      "data": [
+        "experiment.csv"
+      ]
+    },
+    "total": 4
+  }
+}

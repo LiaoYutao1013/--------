@@ -1,0 +1,46 @@
+{
+  "title": "训练报告与错误分析",
+  "mode": "report",
+  "vision_task": "evaluation",
+  "objective": "把训练曲线、混淆矩阵、错误样本和下一步计划汇总成报告。",
+  "result": {
+    "experiment": "training_report_pack",
+    "summary": {
+      "val_accuracy": 0.925,
+      "error_count": 3
+    },
+    "confusion_matrix": {
+      "tp": 22,
+      "tn": 15,
+      "fp": 2,
+      "fn": 1,
+      "precision": 0.9166666666666666,
+      "recall": 0.9565217391304348
+    },
+    "top_errors": [
+      {
+        "sample": 1,
+        "label": 0,
+        "pred": 1,
+        "score": 0.5675567716829499
+      },
+      {
+        "sample": 19,
+        "label": 1,
+        "pred": 0,
+        "score": 0.49849933816448716
+      },
+      {
+        "sample": 32,
+        "label": 0,
+        "pred": 1,
+        "score": 0.5481010721754634
+      }
+    ],
+    "next_steps": [
+      "检查错误样本分布",
+      "尝试数据增强",
+      "比较更强 backbone"
+    ]
+  }
+}

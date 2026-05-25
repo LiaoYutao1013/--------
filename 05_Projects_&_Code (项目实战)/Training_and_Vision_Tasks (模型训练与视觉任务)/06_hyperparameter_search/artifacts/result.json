@@ -1,0 +1,71 @@
+{
+  "title": "超参数搜索训练任务",
+  "mode": "hyperparameter_search",
+  "vision_task": "classification",
+  "objective": "用网格搜索比较学习率、正则化和 epoch 数。",
+  "result": {
+    "experiment": "hyperparameter_search",
+    "best": {
+      "lr": 0.36,
+      "l2": 0.0,
+      "val_accuracy": 0.95,
+      "final_loss": 0.16734535149616736
+    },
+    "trials": [
+      {
+        "lr": 0.12,
+        "l2": 0.0,
+        "val_accuracy": 0.875,
+        "final_loss": 0.2418623867663965
+      },
+      {
+        "lr": 0.12,
+        "l2": 0.01,
+        "val_accuracy": 0.875,
+        "final_loss": 0.25949150985123587
+      },
+      {
+        "lr": 0.12,
+        "l2": 0.05,
+        "val_accuracy": 0.875,
+        "final_loss": 0.32201553697199997
+      },
+      {
+        "lr": 0.24,
+        "l2": 0.0,
+        "val_accuracy": 0.95,
+        "final_loss": 0.1918017308903986
+      },
+      {
+        "lr": 0.24,
+        "l2": 0.01,
+        "val_accuracy": 0.95,
+        "final_loss": 0.2220114806492596
+      },
+      {
+        "lr": 0.24,
+        "l2": 0.05,
+        "val_accuracy": 0.875,
+        "final_loss": 0.3116478135471802
+      },
+      {
+        "lr": 0.36,
+        "l2": 0.0,
+        "val_accuracy": 0.95,
+        "final_loss": 0.16734535149616736
+      },
+      {
+        "lr": 0.36,
+        "l2": 0.01,
+        "val_accuracy": 0.95,
+        "final_loss": 0.207880779898109
+      },
+      {
+        "lr": 0.36,
+        "l2": 0.05,
+        "val_accuracy": 0.875,
+        "final_loss": 0.3103915396282166
+      }
+    ]
+  }
+}

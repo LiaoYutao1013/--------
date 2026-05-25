@@ -1,0 +1,19 @@
+{
+  "id": "045_03_computer_vision_tasks_object_detection__01bbe503",
+  "title": "Small_Object_Detection_Optimization",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/Small_Object_Detection_Optimization.md",
+  "headings": [
+    "1. 策略一：切片辅助推理 (SAHI, Slicing Aided Hyper Inference)",
+    "2. 策略二：特征融合与多尺度检测 (P2 层的引入)",
+    "3. 策略三：NWD 损失函数 (Normalized Wasserstein Distance)",
+    "4. 策略四：特征超分辨率 (Feature Super-Resolution)",
+    "5. 策略五：背景上下文建模 (Context Modeling)",
+    "💡 总结与对比表",
+    "🛠️ 你的 Obsidian 实践建议"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Small_Object_Detection_Optimization》涉及的框、损失或后处理逻辑。",
+  "seed": 29091075
+}

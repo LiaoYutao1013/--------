@@ -1,0 +1,20 @@
+{
+  "id": "053_03_computer_vision_tasks_object_detection__1781be87",
+  "title": "Vision Transformer 在目标检测中的应用",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection/Vision_Transformer_in_Object_Detection.md",
+  "headings": [
+    "概述",
+    "从 ViT 到检测",
+    "ViT 检测的三大范式",
+    "关键改进方向",
+    "与 YOLO 的结合",
+    "实际部署考虑",
+    "当前研究方向",
+    "推荐方案"
+  ],
+  "topic": "deployment",
+  "subtype": "deployment",
+  "objective": "模拟部署流水线并检查关键工程风险",
+  "scenario": "生成部署清单并执行检查，对应《Vision Transformer 在目标检测中的应用》的工程化流程。",
+  "seed": 394378887
+}

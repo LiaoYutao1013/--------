@@ -1,0 +1,29 @@
+{
+  "note_title": "📖 机器视觉笔记：线性滤波器 (Linear Filters)",
+  "topic": "classification",
+  "subtype": "classifier",
+  "objective": "训练一个可解释的合成分类器",
+  "result": {
+    "lab": "classifier",
+    "weights": [
+      1.3834871713060721,
+      -0.6395372595896075
+    ],
+    "bias": 0.0,
+    "accuracy": 0.95,
+    "mistakes_by_epoch": [
+      14,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      6,
+      4,
+      6
+    ]
+  }
+}

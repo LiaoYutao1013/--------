@@ -1,0 +1,16 @@
+{
+  "note_title": "生成模型总览",
+  "topic": "generative",
+  "subtype": "diffusion",
+  "objective": "模拟扩散噪声调度和逐步去噪",
+  "result": {
+    "lab": "diffusion_schedule",
+    "noise_trace": [
+      0.020442339824471096,
+      0.08491066632370958,
+      0.15232138269753628,
+      0.3256562613138529
+    ],
+    "denoised_mae": 0.27541816666518476
+  }
+}

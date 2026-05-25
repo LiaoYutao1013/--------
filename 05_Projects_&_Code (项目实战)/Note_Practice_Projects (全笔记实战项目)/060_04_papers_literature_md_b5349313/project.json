@@ -1,0 +1,16 @@
+{
+  "id": "060_04_papers_literature_md_b5349313",
+  "title": "论文精读总览",
+  "note_path": "04_Papers_&_Literature (论文精读)/论文精读总览.md",
+  "headings": [
+    "推荐记录结构",
+    "阅读优先级",
+    "年度目录",
+    "精读检查点"
+  ],
+  "topic": "paper_review",
+  "subtype": "paper",
+  "objective": "构建论文阅读队列、评分和复盘摘要",
+  "scenario": "构建论文阅读追踪器，对应《论文精读总览》的精读记录。",
+  "seed": 3040121619
+}

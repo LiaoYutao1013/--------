@@ -1,0 +1,8 @@
+{
+  "method": "PTQ",
+  "calibration_samples": 256,
+  "fallback_layers": [
+    "first_conv",
+    "output_head"
+  ]
+}

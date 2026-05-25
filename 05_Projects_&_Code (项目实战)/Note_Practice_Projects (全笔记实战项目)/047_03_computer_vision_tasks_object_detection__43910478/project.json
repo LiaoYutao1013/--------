@@ -1,0 +1,19 @@
+{
+  "id": "047_03_computer_vision_tasks_object_detection__43910478",
+  "title": "Note: YOLO 算法原理全深度解析 (Master Deep Dive)",
+  "note_path": "03_Computer_Vision_Tasks (核心任务)/Object_Detection (检测：YOLO系列、DETR)/YOLO 算法原理全深度解析 (Master Deep Dive).md",
+  "headings": [
+    "1. YOLO 的核心哲学：目标检测即回归 (Regression)",
+    "2. 数学表征：网格与预测值",
+    "3. 网络架构演进 (The Architecture Evolution)",
+    "4. 损失函数深度解析 (Loss Function)",
+    "5. 关键技术细节：为什么 YOLO 这么快？",
+    "6. 实战学习建议 (Obsidian 工作流)",
+    "7. 总结：YOLO 的权衡艺术"
+  ],
+  "topic": "detection",
+  "subtype": "boxes",
+  "objective": "用合成框验证 IoU、NMS、跟踪或检测配置",
+  "scenario": "构建合成检测框流水线，验证《Note: YOLO 算法原理全深度解析 (Master Deep Dive)》涉及的框、损失或后处理逻辑。",
+  "seed": 1133577336
+}

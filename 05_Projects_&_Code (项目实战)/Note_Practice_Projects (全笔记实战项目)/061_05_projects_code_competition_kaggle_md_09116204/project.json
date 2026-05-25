@@ -1,0 +1,20 @@
+{
+  "id": "061_05_projects_code_competition_kaggle_md_09116204",
+  "title": "竞赛项目记录模板",
+  "note_path": "05_Projects_&_Code (项目实战)/Competition_Kaggle (竞赛记录)/竞赛项目记录模板.md",
+  "headings": [
+    "基本信息",
+    "问题理解",
+    "数据分析",
+    "Baseline",
+    "改进实验",
+    "错误分析",
+    "最终方案",
+    "复盘"
+  ],
+  "topic": "competition",
+  "subtype": "competition",
+  "objective": "生成竞赛 baseline、验证和复盘计划",
+  "scenario": "生成竞赛 baseline 计划和实验记录，对应《竞赛项目记录模板》。",
+  "seed": 152134148
+}
