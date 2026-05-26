@@ -15,7 +15,7 @@
         "input_signature_recorded",
         "class_names_recorded"
       ],
-      "elapsed_ms": 0.489
+      "elapsed_ms": 1.015
     },
     {
       "name": "export_onnx",
@@ -26,7 +26,7 @@
         "dynamic_batch=true",
         "numerical_parity_target=1e-5"
       ],
-      "elapsed_ms": 0.3
+      "elapsed_ms": 0.807
     },
     {
       "name": "graph_optimization",
@@ -37,7 +37,7 @@
         "conv_bn_fusion",
         "unused_nodes_removed"
       ],
-      "elapsed_ms": 0.253
+      "elapsed_ms": 0.619
     },
     {
       "name": "engine_selection",
@@ -47,7 +47,7 @@
         "runtime_selected",
         "device_constraints_checked"
       ],
-      "elapsed_ms": 0.224
+      "elapsed_ms": 0.526
     },
     {
       "name": "quantization_plan",
@@ -57,7 +57,7 @@
         "calibration_policy_defined",
         "fallback_precision_defined"
       ],
-      "elapsed_ms": 0.829
+      "elapsed_ms": 0.257
     },
     {
       "name": "deployment_package",
@@ -68,7 +68,7 @@
         "postprocess_version_pinned",
         "smoke_test_required"
       ],
-      "elapsed_ms": 0.616
+      "elapsed_ms": 0.251
     }
   ]
 }
