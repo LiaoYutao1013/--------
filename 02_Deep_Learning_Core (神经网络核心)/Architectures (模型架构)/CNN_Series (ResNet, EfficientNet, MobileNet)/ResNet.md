@@ -2,7 +2,7 @@
 
 ## 概述
 
-ResNet（Residual Network）通过**跳跃连接（Skip Connection）**解决深层网络的梯度消失问题，首次成功训练超过 100 层的深度神经网络。
+ResNet（Residual Network）通过**跳跃连接（Skip Connection）解决深层网络的梯度消失问题，首次成功训练超过 100 层的深度神经网络。
 
 **学习时间**：3-4 小时  
 **先修课程**：[[卷积神经网络CNN基础|经典 CNN 架构]]、[[../../../../Math_for_CV (线性代数、概率论、最优化)/最优化|最优化]]

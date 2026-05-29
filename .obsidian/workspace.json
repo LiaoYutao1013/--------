@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/序列预测.md",
+                "file": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "序列预测"
+              "title": "ResNet"
             }
           }
         ]
@@ -197,8 +197,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习.md",
+    "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/最优化.md",
+    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
+    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/MLP_&_Others/MLP Mixer 与混合架构.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/序列预测.md",
+    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/多标签分类.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/回归.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/分类.md",
@@ -228,10 +231,7 @@
     "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/摄像头视图绘制与标注.md",
     "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Transformer 训练与优化.md",
     "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/卷积神经网络CNN基础.md",
-    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
-    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/MLP_&_Others/MLP Mixer 与混合架构.md",
     "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/数字图像处理总览.md",
-    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/Neural_Rendering_&_Reconstruction/神经渲染与重建.md",
-    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Representations/3D表示方法.md"
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/Neural_Rendering_&_Reconstruction/神经渲染与重建.md"
   ]
 }
