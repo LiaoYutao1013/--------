@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ResNet"
+              "title": "新标签页"
             }
           }
         ]
@@ -197,8 +193,29 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/最优化.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/01_成像模型与参数.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/00_相机标定学习地图.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D视觉总览.md",
+    "未命名.canvas",
+    "2026-07-17.md",
+    "未命名.base",
+    "00_CV_Master_Hub (索引中心)/项目完成报告.md",
+    "00_CV_Master_Hub (索引中心)/Concept_Graph (知识图谱and画布).md",
+    "00_CV_Master_Hub (索引中心)/CV_Learning_Roadmap (学习路线图).md",
     "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/ResNet.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/04_畸变校正与误差评估.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/05_双目与手眼标定.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/03_OpenCV单目标定实战.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)/02_单目标定流程.md",
+    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/3D_Geometry_Foundations/Camera_Calibration (相机标定)",
+    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/卷积神经网络CNN基础.md",
+    "03_Computer_Vision_Tasks (核心任务)/Object_Detection/Data_Augmentation_Strategies.md",
+    "03_Computer_Vision_Tasks (核心任务)/Object_Detection/目标检测训练配置.md",
+    "03_Computer_Vision_Tasks (核心任务)/Generative_Models (Diffusion, GAN)/生成模型总览.md",
+    "03_Computer_Vision_Tasks (核心任务)/Classification (分类)/图像分类总览.md",
+    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Vision Transformer.md",
+    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Transformer 训练与优化.md",
+    "01_Foundations (底层基石)/Math_for_CV (线性代数、概率论、最优化)/最优化.md",
     "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/MLP_&_Others/MLP Mixer 与混合架构.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习/序列预测.md",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习.md",
@@ -209,29 +226,9 @@
     "99_Attachments (图片、PDF、附件)/datasets",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/有监督学习",
     "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/LD2011_2014.txt",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/SVM 支持向量机.md",
     "05_Projects_&_Code (项目实战)/机器学习实践/Electricity数据集（序列预测）.ipynb",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/启发式学习.md",
     "05_Projects_&_Code (项目实战)/机器学习实践/回归.ipynb",
     "05_Projects_&_Code (项目实战)/机器学习实践/Iris数据集（分类）.ipynb",
-    "05_Projects_&_Code (项目实战)/机器学习实践/Iris数据集.ipynb",
-    "05_Projects_&_Code (项目实战)/机器学习实践",
-    "05_Projects_&_Code (项目实战)/Deployment (模型部署：TensorRT, ONNX)/Practical_Projects (实战项目)/07_cmake_cross_platform_deployment/build/ninja-release/vision_app.exe",
-    "05_Projects_&_Code (项目实战)/Deployment (模型部署：TensorRT, ONNX)/Practical_Projects (实战项目)/07_cmake_cross_platform_deployment/README.md",
-    "05_Projects_&_Code (项目实战)/Deployment (模型部署：TensorRT, ONNX)/CMake 跨平台构建与视觉部署.md",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/线性模型（多元线性回归）.md",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/决策树与随机森林.md",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/机器学习基础.md",
-    "03_Computer_Vision_Tasks (核心任务)/Object_Detection/YOLO_Loss_Functions.md",
-    "01_Foundations (底层基石)/Machine_Learning_Basic (SVM、RandomForest、聚类)/无监督学习.md",
-    "03_Computer_Vision_Tasks (核心任务)/Object_Detection/YOLO完整深度解析.md",
-    "03_Computer_Vision_Tasks (核心任务)/Object_Detection/目标检测训练配置.md",
-    "03_Computer_Vision_Tasks (核心任务)/CV任务总览.md",
-    "02_Deep_Learning_Core (神经网络核心)/Training_Techniques (数据增强、优化器、正则化、损失函数)/深度学习训练技巧.md",
-    "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/摄像头视图绘制与标注.md",
-    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/Transformer_Series (ViT, Swin, MAE)/Transformer 训练与优化.md",
-    "02_Deep_Learning_Core (神经网络核心)/Architectures (模型架构)/CNN_Series (ResNet, EfficientNet, MobileNet)/卷积神经网络CNN基础.md",
-    "01_Foundations (底层基石)/Digital_Image_Processing (OpenCV基础、滤波、颜色空间)/数字图像处理总览.md",
-    "03_Computer_Vision_Tasks (核心任务)/3D_Vision (NeRF, 3DGS, 点云)/Neural_Rendering_&_Reconstruction/神经渲染与重建.md"
+    "05_Projects_&_Code (项目实战)/机器学习实践/Iris数据集.ipynb"
   ]
 }
